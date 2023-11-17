@@ -1,0 +1,41 @@
+#image {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  display: block;
+}
+html {
+  background-color: white;
+}
+body {
+  background-color: rgb(230, 230, 230);
+  margin: 1em 0.5em;
+  border-radius: 10px;
+  padding: 0.5em;
+}
+#title {
+  margin-top: 2rem;
+  text-align: center;
+}
+.text-center {
+  margin-top: 1rem;
+  text-align: center;
+}
+#img-div {
+  background-color: white;
+  padding: 0.5em 3rem;
+}
+#tribute-info {
+  margin-top: 2rem;
+  font-weight: bolder;
+}
+ul {
+  margin: auto;
+  max-width: 60%;
+}
+li {
+  margin: 1em 0;
+}
+.text-bold {
+  font-weight: bold;
+}
